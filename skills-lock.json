@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "financial-modeling": {
+      "source": "claude-office-skills/skills",
+      "sourceType": "github",
+      "computedHash": "7b9347eba3e65246cd865dc2371d7de9eae115214ea0dc597816ef7af2d15ac0"
+    }
+  }
+}
